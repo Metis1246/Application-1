@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "562676447347",
+    "project_id": "iron-body-ca427",
+    "storage_bucket": "iron-body-ca427.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562676447347:android:229e5a3c9f4bc8554b5206",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562676447347-9qi8e3j7fqh7ji2afkanavip83192o21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "b9c144b5628cf906e708ae4c98f15444c7965533"
+          }
+        },
+        {
+          "client_id": "562676447347-nf8bmmcjnmeo3pt0ddt2pecp5usholq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyIXXQNiWnT98nGFLaLkdNt8BpzP1re-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562676447347-3h827vgvknrfc19qqepg7021mgoblu7g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "562676447347-u6up57ub8pvr77mir263j4r66ubdum51.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appiron"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
